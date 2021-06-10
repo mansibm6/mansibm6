@@ -10,7 +10,7 @@ I'm a self-taught coder from Bangladesh. I do machine learning and computer visi
 
 ## Work:
 
-- 🔭 I’m currently working on my thesis on deep Learning
+- 🔭 I’m currently working on my thesis on deep learning
 - 🌱 I’m currently learning transfer learning
 - 👯 I’m looking to collaborate on machine learning projects 
 
