@@ -10,8 +10,8 @@ I'm a self-taught coder from Bangladesh. I do machine learning and computer visi
 
 ## Work:
 
-- 🔭 I’m currently working on my thesis on deep learning
-- 📚 I’m currently learning transfer learning
+- 🔭 I’m currently working on my thesis in Computer Vision
+- 📚 I’m currently learning CNNs
 - 🧪 I’m looking to collaborate on machine learning projects 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansibm6)](https://github.com/anuraghazra/github-readme-stats)
