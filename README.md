@@ -2,11 +2,11 @@
 I'm a self-taught coder from Bangladesh. I do machine learning and computer vision projects. I enjoy building and tweaking neural networks.  
 
 ## Skills: 
-* Python
-* MATLAB
-* Data Science
 * Machine Learning
 * Computer Vision
+* Python
+* MATLAB
+* C++
 
 ## Work:
 
