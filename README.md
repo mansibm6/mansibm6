@@ -1,9 +1,9 @@
 ### Hello World 👋, I'm Mansib Mursalin
-I'm a self-taught coder from Bangladesh. I enjoy working on machine learning projects.
+I'm a self-taught coder from Bangladesh...
 
 ## Skills: 
 * Computer Vision
-* Deep Learning
+* Machine Learning
 * Python
 * MATLAB
 * C++
@@ -11,7 +11,7 @@ I'm a self-taught coder from Bangladesh. I enjoy working on machine learning pro
 ## Work:
 
 - 🔭 I’m currently working on my thesis in Computer Vision
-- 🧪 I’m looking to collaborate on machine learning projects and research papers
+- 🧪 I’m always looking to collaborate on machine learning projects and research papers. So hit me up ✌
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansibm6)](https://github.com/anuraghazra/github-readme-stats)
 
