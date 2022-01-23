@@ -10,7 +10,7 @@ I'm a self-taught coder from Bangladesh...
 
 ## Work:
 
-- 🧪 I’m always looking to collaborate on machine learning projects and research papers. So hit me up ✌
+- 🧪 I’m looking to collaborate on machine learning projects and research papers. So hit me up ✌
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansibm6)](https://github.com/anuraghazra/github-readme-stats)
 
