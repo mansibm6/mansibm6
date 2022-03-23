@@ -1,12 +1,13 @@
 ### Hello World 👋, I'm Mansib Mursalin
-I'm a self-taught coder from Bangladesh...
+I'm a coder and productivity nerd from Bangladesh...
 
 ## Skills: 
-* Computer Vision
 * Machine Learning
+* Computer Vision
 * Python
 * MATLAB
 * C++
+* Notion 
 
 ## Work:
 
