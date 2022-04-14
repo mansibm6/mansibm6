@@ -1,5 +1,5 @@
-### Hello World 👋, I'm Mansib Mursalin
-I'm a coder and productivity nerd from Bangladesh...
+### Hello World 👋 
+I'm Mansib Mursalin. I'm a Machine Learning Nerd from Bangladesh...
 
 ## Skills: 
 * Machine Learning
