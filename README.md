@@ -1,5 +1,5 @@
-### Hello World 👋 
-I'm a noob level machine learning nerd from Bangladesh 😆
+### Hello Humans 👋
+I'm a noob level machine learning nerd from Bangladesh 👽
 
 ## Skills: 
 * Machine Learning
