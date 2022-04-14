@@ -1,6 +1,5 @@
 ### Hello World 👋 
-Mansib here, 
-I'm a Machine Learning Nerd from Bangladesh...
+I'm a noob level machine learning nerd from Bangladesh 😆
 
 ## Skills: 
 * Machine Learning
@@ -21,3 +20,4 @@ I'm a Machine Learning Nerd from Bangladesh...
 * [Github](https://github.com/mansibm6)
 * [Kaggle](https://www.kaggle.com/mansibmursalin)
 * [LinkedIn](https://www.linkedin.com/in/mansibm6/)
+* [Personal Website] Coming Soon!
