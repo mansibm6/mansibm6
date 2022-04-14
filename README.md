@@ -20,4 +20,3 @@ I'm a noob level machine learning nerd from Bangladesh 😆
 * [Github](https://github.com/mansibm6)
 * [Kaggle](https://www.kaggle.com/mansibmursalin)
 * [LinkedIn](https://www.linkedin.com/in/mansibm6/)
-* [Personal Website] Coming Soon!
