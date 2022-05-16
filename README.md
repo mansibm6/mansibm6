@@ -4,7 +4,6 @@ I'm a noob level machine learning nerd from Bangladesh 👽
 ## Skills: 
 * Machine Learning
 * Computer Vision
-* NLP
 * Python
 * MATLAB
 * C++
@@ -14,7 +13,6 @@ I'm a noob level machine learning nerd from Bangladesh 👽
 
 - 🤖 I’m looking to collaborate on machine learning projects and research papers. So hit me up
 - 📚 I'm currently reading Hands-on Machine Learning with Scikit-Learn, Keras, and Tensorflow 
-- 💻 I'm currently learning NLP
 
 ## Socials: 
 * [Github](https://github.com/mansibm6)
