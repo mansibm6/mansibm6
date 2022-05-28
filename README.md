@@ -1,5 +1,5 @@
 ### Hello Humans 👋
-I'm just an alien learning ML and reading books to discover more about you Humans 👽
+I'm just an alien learning ML and reading books to discover more about the Human Species 👽
 
 ## Skills I Possess: 
 * Machine Learning
