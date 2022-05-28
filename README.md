@@ -3,6 +3,7 @@ I'm just an alien learning ML and reading books to discover more about you Human
 
 ## Skills I Possess: 
 * Machine Learning
+* Deep Learning
 * Computer Vision
 * EDA (Exploratory Data Analysis)
 * Notion (Advanced User)
@@ -25,6 +26,7 @@ I'm just an alien learning ML and reading books to discover more about you Human
 * Scikit-Learn
 * Numpy
 * Pandas
+* Seaborn
 * OpenCV
 
 ## Current Work Update:
