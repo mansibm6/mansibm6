@@ -1,15 +1,17 @@
 ### Hello Humans 👋
-I'm a noob level machine learning nerd from Bangladesh 👽
+I'm just an alien learning ML and reading books to discover more about you Humans 👽
 
 ## Skills I Possess: 
 * Machine Learning
 * Computer Vision
 * EDA (Exploratory Data Analysis)
+* Notion (Advanced User)
+
+## Programming Languages I Know:
 * Python
 * MATLAB
 * C++
-* Notion 
-
+* 
 ## Models I've Worked With:
 * KNN
 * Decision Tree
