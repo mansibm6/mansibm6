@@ -4,6 +4,7 @@ I'm a noob level machine learning nerd from Bangladesh 👽
 ## Skills I Possess: 
 * Machine Learning
 * Computer Vision
+* EDA (Exploratory Data Analysis)
 * Python
 * MATLAB
 * C++
