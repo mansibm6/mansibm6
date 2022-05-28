@@ -11,7 +11,7 @@ I'm just an alien learning ML and reading books to discover more about you Human
 * Python
 * MATLAB
 * C++
-* 
+
 ## Models I've Worked With:
 * KNN
 * Decision Tree
