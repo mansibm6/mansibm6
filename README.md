@@ -1,5 +1,5 @@
 ### Hello Humans 👋
-I'm just an alien learning data science and reading books to discover more about the Human Species 👽
+Using data and reading books to tell meaningful stories
 
 ## Skills I Possess: 
 * Machine Learning
