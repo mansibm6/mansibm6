@@ -1,9 +1,8 @@
 ### Hello Humans 👋
-I'm just an alien learning ML and reading books to discover more about the Human Species 👽
+I'm just an alien learning data science and reading books to discover more about the Human Species 👽
 
 ## Skills I Possess: 
 * Machine Learning
-* Deep Learning
 * Computer Vision
 * EDA (Exploratory Data Analysis)
 * Notion (Advanced User)
@@ -11,14 +10,8 @@ I'm just an alien learning ML and reading books to discover more about the Human
 ## Programming Languages I Know:
 * Python
 * MATLAB
-* C++
-
-## Models I've Worked With:
-* KNN
-* Decision Tree
-* Random Forest
-* CNN
-* YOLO
+* C/C++
+* C#
 
 ## Tools I've Used:
 * Tensorflow
@@ -28,12 +21,13 @@ I'm just an alien learning ML and reading books to discover more about the Human
 * Pandas
 * Seaborn
 * OpenCV
+* Matplotlib
 
 ## Current Work Update:
 
 - 🤖 I’m looking to collaborate on machine learning projects and research papers. So hit me up
 - 📖 I'm currently reading Hands-on Machine Learning with Scikit-Learn, Keras, and Tensorflow 
-- 📚 I'm currently learning NLP
+- 📚 I'm currently learning NLP and Time Series Forecasting
 
 ## Socials: 
 * [Github](https://github.com/mansibm6)
