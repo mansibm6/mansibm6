@@ -1,5 +1,5 @@
 ### Hello Humans 👋
-Using data and reading books to tell meaningful stories
+
 
 ## Skills I Possess: 
 * Machine Learning
