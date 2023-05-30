@@ -1,17 +1,16 @@
-### Hello Humans 👋
+### Hello there!
 
 
 ## Skills I Possess: 
 * Machine Learning
+* Deep Learning
 * Computer Vision
 * EDA (Exploratory Data Analysis)
-* Notion (Advanced User)
 
 ## Programming Languages I Know:
 * Python
 * MATLAB
 * C/C++
-* C#
 
 ## Tools I've Used:
 * Tensorflow
@@ -25,12 +24,11 @@
 
 ## Current Work Update:
 
-- 🤖 I’m looking to collaborate on machine learning projects and research papers. So hit me up
-- 📖 I'm currently reading Hands-on Machine Learning with Scikit-Learn, Keras, and Tensorflow 
-- 📚 I'm currently learning NLP and Time Series Forecasting
+- 🎒 I’m currently doing my Masters in Engineering Data Science at the University of Houston
 
 ## Socials: 
 * [Github](https://github.com/mansibm6)
 * [Kaggle](https://www.kaggle.com/mansibmursalin)
 * [LinkedIn](https://www.linkedin.com/in/mansibm6/)
-* Email - mansibm6@gmail.com
+* Personal Email - mansibm6@gmail.com
+* School Email - mmursali@cougarnet.uh.edu
