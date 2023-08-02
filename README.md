@@ -1,4 +1,4 @@
-### Hello there!
+### Hello!
 
 
 ## Skills I Possess: 
@@ -26,7 +26,7 @@
 
 ## Current Work Update:
 
-- 🎒 I’m currently doing my Masters in Engineering Data Science at the University of Houston and I am also working as an AI/ML Developer on campus.
+- 🎒 I’m currently doing my Masters in Engineering Data Science at the University of Houston. I am also working as an AI/ML Developer at the University of Houston.
 
 ## Socials: 
 * [Github](https://github.com/mansibm6)
