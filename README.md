@@ -6,6 +6,8 @@
 * Deep Learning
 * Computer Vision
 * EDA (Exploratory Data Analysis)
+* Large Language Models
+* Prompt Engineering
 
 ## Programming Languages I Know:
 * Python
@@ -24,7 +26,7 @@
 
 ## Current Work Update:
 
-- 🎒 I’m currently doing my Masters in Engineering Data Science at the University of Houston
+- 🎒 I’m currently doing my Masters in Engineering Data Science at the University of Houston and I am also working as an AI/ML Developer on campus.
 
 ## Socials: 
 * [Github](https://github.com/mansibm6)
