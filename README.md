@@ -1,19 +1,21 @@
-### Hello!
 
 
-## Skills I Possess: 
+## Skills: 
+* Data Science
 * Machine Learning
 * Deep Learning
 * EDA (Exploratory Data Analysis)
 * Large Language Models
 * Prompt Engineering
 
-## Programming Languages I Know:
+## Programming Languages:
 * Python
 * MATLAB
 * C/C++
+* SQL
+* R
 
-## Tools I've Used:
+## Tools:
 * Tensorflow
 * Keras
 * Scikit-Learn
@@ -22,12 +24,13 @@
 * Seaborn
 * OpenCV
 * Matplotlib
-* OpenAI API
-* Gemini Pro APi
+* Pytorch
+* GPT-3.5, GPT-4
+* Gemini Pro
 
 ## Current Work Update:
 
-- 🎒 I’m currently doing my Masters in Engineering Data Science at the University of Houston. I am also working as a Research Assistant at the University of Houston.
+- I’m currently doing my Masters in Engineering Data Science at the University of Houston. I am also working as a Research Assistant at the University of Houston. 
 
 ## Socials: 
 * [Github](https://github.com/mansibm6)
