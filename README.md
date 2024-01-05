@@ -4,7 +4,6 @@
 ## Skills I Possess: 
 * Machine Learning
 * Deep Learning
-* Computer Vision
 * EDA (Exploratory Data Analysis)
 * Large Language Models
 * Prompt Engineering
@@ -23,10 +22,12 @@
 * Seaborn
 * OpenCV
 * Matplotlib
+* OpenAI API
+* Gemini Pro APi
 
 ## Current Work Update:
 
-- 🎒 I’m currently doing my Masters in Engineering Data Science at the University of Houston. I am also working as an AI/ML Developer at the University of Houston.
+- 🎒 I’m currently doing my Masters in Engineering Data Science at the University of Houston. I am also working as a Research Assistant at the University of Houston.
 
 ## Socials: 
 * [Github](https://github.com/mansibm6)
