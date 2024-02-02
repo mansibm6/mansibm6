@@ -1,12 +1,12 @@
 
 
 ## Skills: 
-* Data Science
-* Machine Learning
-* Deep Learning
-* EDA (Exploratory Data Analysis)
 * Large Language Models
 * Prompt Engineering
+* Machine Learning
+* Deep Learning
+* Data Science
+* EDA (Exploratory Data Analysis)
 
 ## Programming Languages:
 * Python
@@ -30,7 +30,7 @@
 
 ## Current Work Update:
 
-- I’m currently doing my Masters in Engineering Data Science at the University of Houston. I am also working as a Research Assistant at the University of Houston. 
+- I’m currently doing my Masters in Engineering Data Science at the University of Houston. I am also working as a Research Assistant at the Applied Data Science Lab at the University of Houston. 
 
 ## Socials: 
 * [Github](https://github.com/mansibm6)
