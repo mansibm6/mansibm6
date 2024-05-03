@@ -6,11 +6,11 @@
 * Fine-Tuning
 * Similarity Search
 * Prompt Engineering
-* Machine Learning
-* Deep Learning
+* Contemporary Machine Learning Algorithms
+* Deep Learning Algorithms
 * Computer Vision
-* Data Science
 * EDA (Exploratory Data Analysis)
+* Database Management
 
 ## Programming Languages:
 * Python
@@ -19,7 +19,7 @@
 * C/C++
 
 ## Current Work Update:
-* I'm working as AI SWE Intern at HP Inc.
+* I'm working as an AI SWE Intern at HP Inc.
 * I'm currently doing a Masters in Engineering Data Science at the University of Houston.
 
 ## Socials: 
