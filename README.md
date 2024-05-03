@@ -2,35 +2,25 @@
 
 ## Skills: 
 * Large Language Models
+* RAG
+* Fine-Tuning
+* Similarity Search
 * Prompt Engineering
 * Machine Learning
 * Deep Learning
+* Computer Vision
 * Data Science
 * EDA (Exploratory Data Analysis)
 
 ## Programming Languages:
 * Python
 * MATLAB
-* C/C++
 * SQL
-* R
-
-## Tools:
-* Tensorflow
-* Keras
-* Scikit-Learn
-* Numpy
-* Pandas
-* Seaborn
-* OpenCV
-* Matplotlib
-* Pytorch
-* GPT-3.5, GPT-4
-* Gemini Pro
+* C/C++
 
 ## Current Work Update:
-
-- I’m currently doing my Masters in Engineering Data Science at the University of Houston. I am also working as a Research Assistant at the Applied Data Science Lab at the University of Houston. 
+* I'm working as AI SWE Intern at HP Inc.
+* I'm currently doing a Masters in Engineering Data Science at the University of Houston.
 
 ## Socials: 
 * [Github](https://github.com/mansibm6)
