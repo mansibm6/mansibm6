@@ -6,8 +6,8 @@
 * Fine-Tuning
 * Similarity Search
 * Prompt Engineering
-* Contemporary Machine Learning Algorithms
-* Deep Learning Algorithms
+* Contemporary Machine Learning Models
+* Deep Learning Models
 * Computer Vision
 * EDA (Exploratory Data Analysis)
 * Database Management
