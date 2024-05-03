@@ -11,6 +11,7 @@
 * Computer Vision
 * EDA (Exploratory Data Analysis)
 * Database Management
+* High Performance Computing
 
 ## Programming Languages:
 * Python
