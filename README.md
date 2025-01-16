@@ -28,4 +28,4 @@
 * [Github](https://github.com/mansibm6)
 * [Kaggle](https://www.kaggle.com/mansibmursalin)
 * [LinkedIn](https://www.linkedin.com/in/mansibm6/)
-* Personal Email - mansibm6@gmail.com
+* [Email](mansibm6@gmail.com)
