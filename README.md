@@ -11,9 +11,11 @@
 * Computer Vision
 * EDA (Exploratory Data Analysis)
 * Database Management
+* EHR Data Analysis
 
 ## Programming Languages:
 * Python
+* SAS
 * MATLAB
 * SQL
 * C/C++
@@ -22,7 +24,6 @@
 ## Current Work Update:
 * I'm working as an **AI/ML Developer** @ **University of Houston**.
 * I recently graduated from the **University of Houston** with a **Masters in Engineering Data Science**.
-* I'm actively looking for **AI Engineer**, **Machine Learning Engineer**, **Prompt Engineer**, and **Data Scientist** Roles.
 
 ## Socials: 
 * [Github](https://github.com/mansibm6)
