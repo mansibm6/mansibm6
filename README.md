@@ -22,8 +22,8 @@
 * R
 
 ## Current Work Update:
-* I'm working as an **AI/ML Developer** @ **University of Houston**.
-* I recently graduated from the **University of Houston** with a **Masters in Engineering Data Science**.
+* I'm working as a **Researcher** @ **University of Houston - Department of Pharmaceutical Outcomes and Policy**.
+* I graduated from the **University of Houston** with an **M.S. in Engineering Data Science**.
 
 ## Socials: 
 * [Github](https://github.com/mansibm6)
