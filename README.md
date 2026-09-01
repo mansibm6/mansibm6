@@ -13,16 +13,15 @@ I am a data scientist with 3 years of professional and research experience acros
 ### The PREMIER Center, University of Houston - Researcher (Data Scientist)
 *May 2025 to Present*
 
-- Partnered with Texas Health and Human Services to analyze the distribution and impact of safe drug disposal units across Texas and deliver annual reports.
-- Lead implementation and maintenance of Salesforce CRM for streamlined research-center contact management.
-- Build ETL pipelines from Snowflake for MarketScan-Veradigm linked Claims-HER data, and the NIH All of Us Research Program using Python, SQL, and SAS.
+- Partnered with Texas Health and Human Services on their Texas Improved Distribution and Evaluation of Single-Use Disposal Pouches (TIDES) project to analyze the distribution and impact of safe drug disposal units across Texas and deliver multiple reports.
+- Lead implementation and maintenance of Salesforce CRM for streamlined contact and communication management.
+- Built ETL pipelines on Snowflake for MarketScan-Veradigm linked Claims-EHR data using Python, SQL, and SAS.
 
 ### University of Houston - AI/ML Developer
 *Jul 2023 to Dec 2023; Sep 2024 to Apr 2025*
 
-- Engineered a Python and Pandas ETL pipeline to process and analyze 6,500+ unstructured calculus questions.
-- Built an LLM benchmarking framework integrating OpenAI, Claude, Google Gemini, and Ollama.
-- Presented the resulting research at the EDUCAUSE 2026 Annual Conference.
+- Engineered an ETL pipeline to process and analyze 6,500+ unstructured calculus questions using Python.
+- Built an LLM benchmarking framework integrating OpenAI, Claude, Google Gemini, and Ollama, and presented the resulting research at the EDUCAUSE 2026 Annual Conference.
 - Designed and prototyped AI chatbots for University of Houston students and staff using Botpress.
 
 ### Hewlett-Packard Inc. - AI Software Engineer Intern
@@ -51,34 +50,32 @@ I am a data scientist with 3 years of professional and research experience acros
 | Area | Technologies and methods |
 | --- | --- |
 | Programming | Python, SAS, SQL, R, MATLAB, C/C++ |
-| ML and Data | PyTorch, TensorFlow, Hugging Face, Pandas, NumPy, scikit-learn, SciPy, SHAP, SMOTE |
-| Generative AI | RAG, fine-tuning, prompt engineering, embeddings, vector databases, entity extraction, similarity search |
-| Analytics | Text mining, topic modeling, cohort building |
-| Cloud and tools | Microsoft Azure, Snowflake, GitHub, Salesforce, OpenAI API, Google Gemini API, Claude API, Qualtrics, Excel |
-| Operating systems | Windows, Linux, macOS |
+| ML and Data | PyTorch, TensorFlow, Hugging Face, Pandas, NumPy, Scikit-Learn, SciPy, SHAP, SMOTE |
+| Generative AI | RAG, fine-tuning, prompt engineering, embeddings, vector databases, entity extraction, similarity search, text mining, topic modeling |
+| Cloud and Tools | Microsoft Azure, Snowflake, GitHub, Salesforce, OpenAI API, Google Gemini API, Claude API, Qualtrics, Excel |
+| Operating Systems | Windows, Linux, macOS |
 | Languages | English and Bengali (fluent); Arabic, Urdu, and Spanish |
 
 ## Selected Publications
 
-- [Buprenorphine Use and the Risk of Dental Adverse Events in Patients with Opioid Use Disorder](#) â€” *Substance Use: Research and Treatment*.
-- [Exploring Patient and Provider-Level Characteristics in Z-Code Documentation in the United States](#) â€” *Advances in Public Health*.
-- Association of Buprenorphine Dose with Treatment Retention, Adherence Trajectories, and Overdose Risk in Opioid Use Disorder â€” submitted to *Annals of Pharmacotherapy*.
+- [Buprenorphine Use and the Risk of Dental Adverse Events in Patients with Opioid Use Disorder](https://journals.sagepub.com/doi/10.1177/29768357251411168?_gl=1*zsww2f*_up*MQ..*_ga*MjM1MDk3MDIwLjE3Njk3MDIyMTg.*_ga_60R758KFDG*czE3Njk3MDIyMTckbzEkZzAkdDE3Njk3MDIyMTckajYwJGwwJGg2OTI5NTA0Mg..) - *Substance Use: Research and Treatment*.
+- [Exploring Patient and Provider-Level Characteristics in Z-Code Documentation in the United States](https://onlinelibrary.wiley.com/doi/10.1155/adph/7449088) - *Advances in Public Health*.
 
 ## Conferences
 
 - EDUCAUSE Annual Conference 2026 - presented research on LLM benchmarking for online mathematics assessments.
 - AAC&U Conference on AI and Higher Education 2026 - accepted poster abstract on LLM benchmarking and academic integrity.
-- Future of Work with AI Conference 2026, University of Houston.
-- Teaching and Learning with AI Conference 2025, University of Houston.
-- 16th Annual Community Drug Awareness Day Conference 2025, Houston.
-- AMIA Annual Symposium 2025, Atlanta; AMIA Annual Symposium 2026, Dallas.
-- NSBE 2024 Conference, Atlanta.
+- Future of Work with AI Conference 2026, University of Houston - attended and collaborated on presentation.
+- Teaching and Learning with AI Conference 2025, University of Houston - attended and collaborated on presentation.
+- 16th Annual Community Drug Awareness Day Conference 2025, Houston - volunteered.
+- AMIA Annual Symposium 2025, Atlanta; AMIA Annual Symposium 2026, Dallas - attended.
+- NSBE 2024 Conference, Atlanta - collaborated on poster presentation.
 
 ## Leadership and Community
 
-- **Vice President & Cofounder**, Future Founders, University of Houston â€” hosted founder talks and led AI-tools workshops.
-- **Artist Collaborator**, The Artistsâ€™ Corner at ISHO â€” partnered on ISHOâ€™s Artistsâ€™ Club initiative; work has been exhibited and sold through ISHO stores and recognized by *The Daily Star*.
-- **Volunteer**, The Beacon Homeless Services â€” supported meal preparation and service for 100+ guests.
+- **Vice President & Cofounder**, Future Founders, University of Houston - hosted founder talks and led AI tools workshops.
+- **Artist Collaborator**, The Artists' Corner at ISHO - partnered on ISHO's Artists' Club initiative; work has been exhibited and sold through ISHO stores and recognized by *The Daily Star* - the leading English newspaper in Bangladesh.
+- **Volunteer**, The Beacon Homeless Services - supported meal preparation and service for 100+ guests.
 
 ## Certifications
 
@@ -89,9 +86,9 @@ I am a data scientist with 3 years of professional and research experience acros
 
 ## Professional Affiliations
 
-- American Medical Informatics Association â€” Early Career Member
-- EDUCAUSE â€” Member
-- National Society of Black Engineers â€” Collegiate Member
+- American Medical Informatics Association - Early Career Member
+- EDUCAUSE - Member
+- National Society of Black Engineers - Collegiate Member
 
 ## Socials: 
 * [Github](https://github.com/mansibm6)
