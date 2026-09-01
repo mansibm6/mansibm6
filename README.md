@@ -45,7 +45,7 @@ I am a data scientist with 3 years of professional and research experience acros
   - Coursework: Deep Learning, Text Mining, Machine Learning, Engineering Analytics, Probability & Statistics, Biomedical Data Mining, Database Management
 - **B.S. in Electrical and Electronic Engineering**, Ahsanullah University of Science and Technology - GPA: 3.455/4.000 *(2016 to 2022)*
 
-## Technical Skills
+## Skills
 
 | Area | Technologies and methods |
 | --- | --- |
@@ -56,19 +56,20 @@ I am a data scientist with 3 years of professional and research experience acros
 | Operating Systems | Windows, Linux, macOS |
 | Languages | English and Bengali (fluent); Arabic, Urdu, and Spanish |
 
-## Selected Publications
+## Publications
 
 - [Buprenorphine Use and the Risk of Dental Adverse Events in Patients with Opioid Use Disorder](https://journals.sagepub.com/doi/10.1177/29768357251411168?_gl=1*zsww2f*_up*MQ..*_ga*MjM1MDk3MDIwLjE3Njk3MDIyMTg.*_ga_60R758KFDG*czE3Njk3MDIyMTckbzEkZzAkdDE3Njk3MDIyMTckajYwJGwwJGg2OTI5NTA0Mg..) - *Substance Use: Research and Treatment*.
 - [Exploring Patient and Provider-Level Characteristics in Z-Code Documentation in the United States](https://onlinelibrary.wiley.com/doi/10.1155/adph/7449088) - *Advances in Public Health*.
 
 ## Conferences
 
-- EDUCAUSE Annual Conference 2026 - presented research on LLM benchmarking for online mathematics assessments.
-- AAC&U Conference on AI and Higher Education 2026 - accepted poster abstract on LLM benchmarking and academic integrity.
+- EDUCAUSE Annual Conference 2026, Denver, CO - presented poster "Online Math MCQs Are Obsolete: An LLM Benchmarking Framework and Academic Integrity Alternatives" on LLM benchmarking for online mathematics assessments.
+- AAC&U Conference on AI and Higher Education 2026, Atlanta, GA - accepted poster abstract on LLM benchmarking and academic integrity.
 - Future of Work with AI Conference 2026, University of Houston - attended and collaborated on presentation.
 - Teaching and Learning with AI Conference 2025, University of Houston - attended and collaborated on presentation.
-- 16th Annual Community Drug Awareness Day Conference 2025, Houston - volunteered.
-- AMIA Annual Symposium 2025, Atlanta; AMIA Annual Symposium 2026, Dallas - attended.
+- Enhancing the Educational Experience with ChatGPT and AI Conference 2024, University of Houston - collaborated on presentation.
+- 16th Annual Community Drug Awareness Day Conference 2025, Houston, TX - volunteered on key logistical and organizational tasks.
+- AMIA Annual Symposium 2025, Atlanta, GA - attended.
 - NSBE 2024 Conference, Atlanta - collaborated on poster presentation.
 
 ## Leadership and Community
