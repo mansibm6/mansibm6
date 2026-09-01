@@ -1,8 +1,8 @@
 # Mansib Mursalin
 
-**Data Scientist Â· AI/ML Engineer Â· Health Informatician**
+**Data Scientist · AI/ML Engineer · Health Informatician**
 
-Houston, Texas Â· [Email](mailto:mansibm6@gmail.com) Â· [LinkedIn](#) Â· [Google Scholar](#) Â· [ORCID](#)
+Houston, Texas
 
 ## About
 
@@ -10,14 +10,14 @@ I am a data scientist with 3 years of professional and research experience acros
 
 ## Experience
 
-### The PREMIER Center, University of Houston â€” Researcher (Data Scientist)
-*May 2025 â€“ Present*
+### The PREMIER Center, University of Houston ” Researcher (Data Scientist)
+*May 2025 “ Present*
 
 - Partner with Texas Health and Human Services to analyze the distribution and impact of safe drug disposal units across Texas and deliver annual reports.
 - Lead implementation and maintenance of Salesforce CRM for streamlined research-center contact management.
 - Build ETL pipelines from Snowflake, MarketScan-Veradigm linked Claims-HER data, and the NIH All of Us Research Program using Python, SQL, and SAS.
 
-### University of Houston â€” AI/ML Developer
+### University of Houston â€ AI/ML Developer
 *Jul 2023 â€“ Dec 2023; Sep 2024 â€“ Apr 2025*
 
 - Engineered a Python and Pandas ETL pipeline to process and analyze 6,500+ unstructured calculus questions.
