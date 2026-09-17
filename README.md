@@ -1,6 +1,6 @@
 # Mansib Mursalin
 
-**Data Scientist · AI/ML Engineer
+**Data Scientist · AI/ML Engineer**
 
 Houston, Texas
 
