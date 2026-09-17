@@ -53,8 +53,8 @@ AI, ML, and Data Science professional with 3+ years of experience across higher 
 | Area | Technologies and methods |
 | --- | --- |
 | Programming | Python, SAS, SQL, R, MATLAB, C/C++ |
-| ML and Data | PyTorch, TensorFlow, Hugging Face, Pandas, NumPy, Scikit-Learn, SciPy, SHAP, SMOTE |
-| Generative AI | RAG, fine-tuning, prompt engineering, embeddings, vector databases, entity extraction, similarity search, text mining, topic modeling |
+| Libraries | PyTorch, TensorFlow, Hugging Face, LlamaIndex, OpenCV, Pandas, NumPy, Scikit-Learn, SciPy, Seaborn, SHAP, SMOTE, FAISS, YOLO |
+| Skills | RAG, fine-tuning, prompt engineering, vector embeddings, vector databases, entity extraction, similarity search, text mining, topic modeling, contemporary ML algorithms, patient cohort building, ETL pipelines, feature engineering |
 | Cloud and Tools | Microsoft Azure, Snowflake, GitHub, Salesforce, OpenAI API, Google Gemini API, Claude API, Qualtrics, Excel, Notion |
 | Operating Systems | Windows, Linux, macOS |
 | Languages | English and Bengali (fluent); Arabic, Urdu, Hindi, and Spanish |
