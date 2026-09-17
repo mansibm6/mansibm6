@@ -57,7 +57,7 @@ AI, ML, and Data Science professional with 3+ years of experience across higher 
 | Generative AI | RAG, fine-tuning, prompt engineering, embeddings, vector databases, entity extraction, similarity search, text mining, topic modeling |
 | Cloud and Tools | Microsoft Azure, Snowflake, GitHub, Salesforce, OpenAI API, Google Gemini API, Claude API, Qualtrics, Excel, Notion |
 | Operating Systems | Windows, Linux, macOS |
-| Languages | English and Bengali (fluent); Arabic, Urdu, and Spanish |
+| Languages | English and Bengali (fluent); Arabic, Urdu, Hindi, and Spanish |
 
 ## Publications
 
