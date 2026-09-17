@@ -63,7 +63,7 @@ AI, ML, and Data Science professional with 3+ years of experience across higher 
 
 - [Buprenorphine Use and the Risk of Dental Adverse Events in Patients with Opioid Use Disorder](https://journals.sagepub.com/doi/10.1177/29768357251411168?_gl=1*zsww2f*_up*MQ..*_ga*MjM1MDk3MDIwLjE3Njk3MDIyMTg.*_ga_60R758KFDG*czE3Njk3MDIyMTckbzEkZzAkdDE3Njk3MDIyMTckajYwJGwwJGg2OTI5NTA0Mg..) - *Substance Use: Research and Treatment*.
 - [Exploring Patient and Provider-Level Characteristics in Z-Code Documentation in the United States](https://onlinelibrary.wiley.com/doi/10.1155/adph/7449088) - *Advances in Public Health*.
-- [Can You Trust ChatGPT? A Risk-Based Approach to LLM Safety](https://nsbejournal.scholasticahq.com/article/118675.pdf) - *NSBE 2024 Conference in Atlanta, GA
+- [Can You Trust ChatGPT? A Risk-Based Approach to LLM Safety](https://nsbejournal.scholasticahq.com/article/118675.pdf) - *NSBE 2024 Conference in Atlanta, GA*.
 
 ## Conferences
 
